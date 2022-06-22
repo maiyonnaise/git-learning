@@ -1,1 +1,2 @@
-console.log('config js 2')
+console.log('config js')
+console.log('hello this is mai')
